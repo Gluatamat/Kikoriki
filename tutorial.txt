@@ -6,5 +6,6 @@ git checkout <название ветви>
 
 git help  -- чо почём
 git status  --  чё говорит гит прям ща
+git reset --hard HEAD^  --  откатить до последнего комита
 
 Я меняю на
