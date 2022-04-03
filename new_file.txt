@@ -1,0 +1,8 @@
+git commit -m "text"   ---   создать коммит
+git push  --  отправить коммиты на гитхаб
+git pull   ---  вытянуть коммиты
+
+git checkout <название ветви>
+
+git help  -- чо почём
+git status  --  чё говорит гит прям ща
