@@ -2,6 +2,6 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
+/Logs
 /Library
-/Logs/
-/UserSettings/
+/UserSettings
