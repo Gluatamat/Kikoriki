@@ -203,7 +203,7 @@ MonoBehaviour:
     - Scene 1
     AllowRuntimeSceneChanges: 0
     NetworkPrefabs:
-    - Prefab: {fileID: 1353107815979928253, guid: d371ec848fe4f0c4c9067a25ac53cf9c, type: 3}
+    - Prefab: {fileID: 3787004138884269420, guid: 63b99946ef94c8e4f89553a3a5cdcba5, type: 3}
       PlayerPrefab: 1
     PlayerPrefabHash:
       rid: 6943959366920830976
@@ -215,7 +215,7 @@ MonoBehaviour:
     ClientConnectionBufferTimeout: 10
     ConnectionApproval: 0
     ConnectionData: 
-    EnableTimeResync: 0
+    EnableTimeResync: 1
     TimeResyncInterval: 30
     EnableNetworkVariable: 1
     EnsureNetworkVariableLengthSafety: 0
@@ -235,7 +235,7 @@ MonoBehaviour:
     - rid: 6943959366920830976
       type: {class: NullableBoolSerializable, ns: MLAPI.Configuration, asm: Unity.Multiplayer.MLAPI.Runtime}
       data:
-        Value: 0
+        Value: 9728482878089525310
 --- !u!1 &193442680
 GameObject:
   m_ObjectHideFlags: 0
@@ -898,8 +898,8 @@ Camera:
   m_GameObject: {fileID: 607686585}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0.1981132, g: 0.1981132, b: 0.1981132, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0

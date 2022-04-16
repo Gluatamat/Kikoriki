@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayersManager.cs" />
+    <Compile Include="Assets\Scripts\player_fingers.cs" />
     <Compile Include="Assets\Scripts\player_basic.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
   </ItemGroup>
